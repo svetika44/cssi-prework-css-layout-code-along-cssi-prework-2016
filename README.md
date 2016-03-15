@@ -4,10 +4,8 @@ In this code along exercise we will add column structure to our page layouts.
 
 ## Steps
 
-1. Fork this repository.
-2. Clone your fork.
-3. cd into the folder for this lab.
-4. Code along with the included video below.
+1. Open this project by clicking on the 'open' button
+2. Code along with the included video below.
 
 ## Code Along Exercise 4 ~ 28min
 
